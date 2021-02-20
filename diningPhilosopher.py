@@ -1,5 +1,5 @@
 '''
-@Assignment: Dining Philosopher
+@Assignment: Dining Philosopher Problem
 @Student Name: Vishesh Sinha
 @Roll: 11948 
 '''
